@@ -20,3 +20,5 @@ docs/lessons-learned.md
 incidents/.gitkeep
 scripts/.gitkeep
 ```
+
+> `git ls-files` was run before this `validation.md` was created, hence 9 tracked files; the phase commit contains 10.
