@@ -1,0 +1,18 @@
+﻿# Raw lab evidence - curated manually into evidence/
+evidence-raw/
+
+# OPNsense config exports contain hashes and keys - never commit
+*.xml
+
+# VMware artefacts / images
+*.vmdk
+*.vmx
+*.vmsd
+*.vmxf
+*.nvram
+*.iso
+*.lck/
+
+# Windows
+Thumbs.db
+desktop.ini
